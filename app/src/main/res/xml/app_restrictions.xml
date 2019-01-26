@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restrictions xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <restriction
+        android:key="welcomeButtonMessage"
+        android:restrictionType="string"
+        android:defaultValue="@string/welcome_button_message_default"/>
+
+    <restriction
+        android:key="isImageModeEnabled"
+        android:restrictionType="bool"
+        android:defaultValue="false"/>
+
+    <restriction
+        android:key="imageUrl"
+        android:restrictionType="string"
+        android:defaultValue="@string/image_url_default"/>
+
+</restrictions>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Enterprise Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="welcome_button_message_default">Welcome to the cat bonanza!</string>
+    <string name="image_url_default">http://wisdompets.com/wp-content/uploads/2015/10/cat-scratching-post-97572046-262x300.jpg</string>
+</resources>
